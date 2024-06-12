@@ -13,7 +13,7 @@
 
 - Desarrollador web autodidacta
 - Estudiante avanzado de Ing. en Sistemas(Universidad Abierta Interamericana - 4to año)
-- Actualmente tratando de aprender desarrollo mobile
+- Actualmente tratando de aprender desarrollo mobile, arquitecturas y patrones de software
 - Portafolio personal (...En construccion)
 - Mi CV: <a href="https://drive.google.com/file/d/1uhnwhiOF6bsziecEKzHlL-nKEXLTBiXW/view?usp=sharing">
 		<img src=https://cdn.simpleicons.org/readdotcv/black/white/ width=30>
@@ -31,7 +31,7 @@
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C++](https://img.shields.io/badge/C#%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -82,8 +82,8 @@
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinAlbonico&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinAlbonico&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="AgustinAlbonico"/>
 
 </a>
 </div>
@@ -136,7 +136,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Gracias por mirar!✨</b>
 
 </div>
 <br>
@@ -148,6 +148,3 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
