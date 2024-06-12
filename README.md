@@ -69,7 +69,6 @@
 </p>
 
 <br>
-<br>
 
 -----
 
@@ -88,8 +87,6 @@
 </a>
 </div>
 
-<br>
-<br>
 <br>
 
 -----
@@ -124,23 +121,12 @@
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
 <div align='center'>
 
-## <b>Gracias por mirar!✨</b>
+<b><big>Gracias por mirar!✨</big></b>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-<br>
-<br>
-<br>
-<br>
 
----
 
-<br>
 
