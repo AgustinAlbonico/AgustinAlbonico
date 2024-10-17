@@ -15,7 +15,7 @@
 - Estudiante avanzado de Ing. en Sistemas(Universidad Abierta Interamericana - 4to año)
 - Actualmente tratando de aprender desarrollo mobile, arquitecturas y patrones de software
 - Portafolio personal (...En construccion)
-- Mi CV: <a href="https://drive.google.com/file/d/1dAJ3wCT8DdNyjj1cWbeK_RuXluNlGTGY/view?usp=drive_link">
+- Mi CV: <a href="https://drive.google.com/file/d/1dAJ3wCT8DdNyjj1cWbeK_RuXluNlGTGY/view?usp=drive_link" target="_blank">
 		<img src=https://cdn.simpleicons.org/readdotcv/black/white/ width=30>
   	</a>
 
