@@ -28,11 +28,11 @@
 <p align="center">
  	<h3>Lenguajes:</h3>
   		<a href="https://skillicons.dev">
-    			<img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,spring,html,css,tailwind,js,ts,react,redux,next,electron,nodejs,express,cypress,graphql,jest" />
+    			<img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,spring,html,css,tailwind,js,ts,react,redux,next,nodejs,express" />
   		</a>
 	<h3>Bases de datos:</h3>
 		<a href="https://skillicons.dev">
-    			<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,prisma" />
+    			<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   		</a>
 	<h3>Herramientas:</h3>
 		<a href="https://skillicons.dev">
